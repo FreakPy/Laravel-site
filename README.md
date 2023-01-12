@@ -1,2 +1,2 @@
 # Laravel-site
- Site feito em PHP com framework em laravel
+ Site feito em PHP com framework Laravel
